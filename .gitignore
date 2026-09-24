@@ -1,0 +1,15 @@
+# 构建产物与临时文件
+dist/
+build/
+preview/
+__pycache__/
+*.pyc
+*.spec
+*.log
+
+# 音乐（官方 BGM，版权原因不放仓库；把 ogg/mp3 丢进 assets/music/ 即可）
+assets/music/*.mp3
+assets/music/*.ogg
+
+# 抓取时的中间产物
+wiki_sfx_list.txt
