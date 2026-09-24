@@ -1,0 +1,11 @@
+{
+  "id": "devourer_of_gods",
+  "name": "神明吞噬者",
+  "name_en": "Devourer of Gods",
+  "kind": "pet",
+  "version": "1.1.0",
+  "author": "白糖",
+  "desc": "灾厄模组的神明吞噬者。两个形态：Q版 Chibii Devourer 与 100 节链式长虫本体，会穿梭屏幕、放射激光网、咬鼠标。",
+  "icon": "icon.png",
+  "entry": "module.py"
+}
