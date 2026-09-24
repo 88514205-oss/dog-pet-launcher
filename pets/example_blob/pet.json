@@ -1,0 +1,10 @@
+{
+  "id": "example_blob",
+  "name": "示例 · 像素方块",
+  "name_en": "Example Blob",
+  "kind": "pet",
+  "version": "1.0.0",
+  "author": "白糖",
+  "desc": "最小可用的桌宠模块示例，复制这个文件夹就能改成自己的宠物。",
+  "entry": "module.py"
+}
