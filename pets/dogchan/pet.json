@@ -1,0 +1,12 @@
+{
+  "id": "dogchan",
+  "name": "神吞娘",
+  "name_en": "Dogchan",
+  "kind": "pet",
+  "version": "1.0.0",
+  "author": "白糖",
+  "desc": "已并入神明吞噬者模块，作为它的第三种形象。",
+  "icon": "icon.png",
+  "entry": "module.py",
+  "enabled": false
+}
